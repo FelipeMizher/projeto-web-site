@@ -1,2 +1,4 @@
-# projeto_DIW_01-2023
+# prj-DIW
 Trabalho Final da matéria de Desenvolvimento de Interfaces Web.
+
+01/2023
